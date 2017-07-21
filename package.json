@@ -1,0 +1,23 @@
+{
+  "name": "magix-updater",
+  "version": "2.0.0",
+  "description": "partial refresh solution",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinglie/magix-updater.git"
+  },
+  "keywords": [
+    "refresh",
+    "update",
+    "view",
+    "magix",
+    "xinglie"
+  ],
+  "author": "xinglie <kooboy_li@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xinglie/magix-updater/issues"
+  },
+  "homepage": "https://github.com/xinglie/magix-updater#readme"
+}
