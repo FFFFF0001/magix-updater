@@ -14,6 +14,9 @@
     "magix",
     "xinglie"
   ],
+  "dependencies": {
+    "magix-combine": "3.4.x"
+  },
   "author": "xinglie <kooboy_li@163.com>",
   "license": "MIT",
   "bugs": {

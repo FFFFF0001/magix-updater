@@ -1,4 +1,4 @@
-let combine = require('../../magix-combine/index');
+let combine = require('magix-combine');
 combine.config({
     loaderType: 'iife'
 });
